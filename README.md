@@ -18,6 +18,14 @@
 
 ---
 
+
+## How to use 
+
+```bash
+python3 cookiehunster.py
+
+---
+
 ## Requirements
 
 Install dependencies using the provided script:
@@ -25,9 +33,5 @@ Install dependencies using the provided script:
 ```bash
 python3 install_requirements.py
 
----
-## script usage 
 
-```bash
-python3 cookiehunter.py <target_url>
 
