@@ -4,7 +4,7 @@
 
 - Extracts and analyzes cookies from a target URL
 - Decodes Base64, JWT, JSON, and detects hashes
-- Suggests manual actions (e.g. flipping booleans, session testing)
+- Suggests manual actions (e.g., flipping booleans, session testing)
 - Optionally brute-forces common paths using `curl` and cookies
 
 ---
@@ -18,20 +18,11 @@
 
 ---
 
-
-## How to use 
-
-```bash
-python3 cookiehunster.py
-
----
-
-## Requirements
-
-Install dependencies using the provided script:
+## How to use
 
 ```bash
-python3 install_requirements.py
+python3 cookiehunter.py
+
 
 
 
